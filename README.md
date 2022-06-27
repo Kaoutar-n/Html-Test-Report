@@ -7,7 +7,7 @@ PYTHON SELENIUM-  script to generate html summary for unit test results
    ```bash
     pip install selenium
    ```
-   -Download a driver to interface with the chosen browser
+   -Download a driver to interface with your chosen browser
    
    -import unittest
    
