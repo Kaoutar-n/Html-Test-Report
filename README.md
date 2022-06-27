@@ -1,7 +1,7 @@
 # Html-Test-Report
 PYTHON SELENIUM-  script to generate html summary for unit test results
 ## Setup:
-   -Install Python 3.11
+   -Install Python (version >= 2.6)
    
    -Install [selenium](https://www.selenium.dev/documentation/) package
    ```bash
