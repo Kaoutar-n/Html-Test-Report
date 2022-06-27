@@ -22,5 +22,5 @@ PYTHON SELENIUM-  script to generate html summary for unit test results
    
    -Open .html file in your browser 
    
-  ##Output:
+## Output:
   ![screencapture-127-0-0-1-5500-FinalReport-html-2022-06-24-15_53_43](https://user-images.githubusercontent.com/108267205/175916227-40e3cdb1-8fb2-4069-b90b-7df9daeb6041.png)
