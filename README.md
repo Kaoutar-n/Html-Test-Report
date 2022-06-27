@@ -14,7 +14,7 @@ PYTHON SELENIUM-  script to generate html summary for unit test results
    -from HtmlTemplate import Report
 ## Getting started:
    
-   -Use unittest framework of Python to write your tests
+   -Use unittest framework of [Python](https://pypi.org/project/unittest2/)  to write your tests
    
    -Call The Report class methods to write into your html report 
    
