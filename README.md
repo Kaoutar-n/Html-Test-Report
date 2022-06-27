@@ -3,7 +3,7 @@ PYTHON SELENIUM-  script to generate html summary for unit test results
 ## Setup:
    -Install Python 3.11
    
-   -Install the selenium package
+   -Install [selenium](https://www.selenium.dev/documentation/) package
    ```bash
     pip install selenium
    ```
